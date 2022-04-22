@@ -6,6 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 
 		System.out.println("Listado de alumnos 1ro DAW");
+		System.out.println("Alumno 1");
 	}
 
 }
